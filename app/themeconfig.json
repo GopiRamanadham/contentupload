@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "name": "Animals",
+      "images": [
+        "ani1.webp",
+        "ani2.webp",
+        "ani3.webp",
+        "ani4.webp",
+        "ani5.webp",
+        "ani6.webp",
+        "ani7.webp",
+        "ani8.webp",
+        "ani9.webp",
+        "ani10.webp"
+      ]
+    },
+    {
+      "name": "Cars",
+      "images": [
+        "car1.webp",
+        "car2.webp",
+        "car3.webp",
+        "car4.webp",
+        "car5.webp",
+        "car6.webp",
+        "car7.webp",
+        "car8.webp",
+        "car9.webp",
+        "car10.webp"
+      ]
+    },
+    {
+      "name": "Gadgets",
+      "images": [
+        "gad1.webp",
+        "gad2.webp",
+        "gad3.webp",
+        "gad4.webp",
+        "gad5.webp",
+        "gad6.webp",
+        "gad7.webp",
+        "gad8.webp",
+        "gad9.webp",
+        "gad10.webp"
+      ]
+    },
+    {
+      "name": "Flags",
+      "images": [
+        "fla1.webp",
+        "fla2.webp",
+        "fla3.webp",
+        "fla4.webp",
+        "fla5.webp",
+        "fla6.webp",
+        "fla7.webp",
+        "fla8.webp",
+        "fla9.webp",
+        "fla10.webp"
+      ]
+    },
+    {
+      "name": "Fruits",
+      "images": [
+        "fru1.webp",
+        "fru2.webp",
+        "fru3.webp",
+        "fru4.webp",
+        "fru5.webp",
+        "fru6.webp",
+        "fru7.webp",
+        "fru8.webp",
+        "fru9.webp",
+        "fru10.webp"
+      ]
+    },
+    {
+      "name": "Vegetables",
+      "images": [
+        "veg1.webp",
+        "veg2.webp",
+        "veg3.webp",
+        "veg4.webp",
+        "veg5.webp",
+        "veg6.webp",
+        "veg7.webp",
+        "veg8.webp",
+        "veg9.webp",
+        "veg10.webp"
+      ]
+    }
+  ]
+}
