@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "themes": [
     {
       "name": "Animals",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Cars",
-      "cover": "car1.webp",
+      "cover": "can1.webp",
       "unlockLevel": 50,
       "images": [
         "can1.webp",
