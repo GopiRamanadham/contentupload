@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "themes": [
     {
       "name": "Animals",
@@ -23,16 +23,16 @@
       "cover": "car1.webp",
       "unlockLevel": 50,
       "images": [
-        "car1.webp",
-        "car2.webp",
-        "car3.webp",
-        "car4.webp",
-        "car5.webp",
-        "car6.webp",
-        "car7.webp",
-        "car8.webp",
-        "car9.webp",
-        "car10.webp"
+        "can1.webp",
+        "can2.webp",
+        "can3.webp",
+        "can4.webp",
+        "can5.webp",
+        "can6.webp",
+        "can7.webp",
+        "can8.webp",
+        "can9.webp",
+        "can10.webp"
       ]
     },
     {
