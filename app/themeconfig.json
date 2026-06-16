@@ -1,10 +1,7 @@
 {
-  "version": 6,
   "themes": [
     {
-      "name": "Animals",
       "cover": "ani1.webp",
-      "unlockLevel": 0,
       "images": [
         "ani1.webp",
         "ani2.webp",
@@ -16,12 +13,12 @@
         "ani8.webp",
         "ani9.webp",
         "ani10.webp"
-      ]
+      ],
+      "name": "Animals",
+      "unlockLevel": 0
     },
     {
-      "name": "Cars",
       "cover": "can1.webp",
-      "unlockLevel": 50,
       "images": [
         "can1.webp",
         "can2.webp",
@@ -33,12 +30,12 @@
         "can8.webp",
         "can9.webp",
         "can10.webp"
-      ]
+      ],
+      "name": "Cars",
+      "unlockLevel": 50
     },
     {
-      "name": "Gadgets",
       "cover": "gad1.webp",
-      "unlockLevel": 100,
       "images": [
         "gad1.webp",
         "gad2.webp",
@@ -50,29 +47,12 @@
         "gad8.webp",
         "gad9.webp",
         "gad10.webp"
-      ]
+      ],
+      "name": "Gadgets",
+      "unlockLevel": 100
     },
     {
-      "name": "Flags",
-      "cover": "fla1.webp",
-      "unlockLevel": 150,
-      "images": [
-        "fla1.webp",
-        "fla2.webp",
-        "fla3.webp",
-        "fla4.webp",
-        "fla5.webp",
-        "fla6.webp",
-        "fla7.webp",
-        "fla8.webp",
-        "fla9.webp",
-        "fla10.webp"
-      ]
-    },
-    {
-      "name": "Fruits",
       "cover": "fru1.webp",
-      "unlockLevel": 200,
       "images": [
         "fru1.webp",
         "fru2.webp",
@@ -84,12 +64,12 @@
         "fru8.webp",
         "fru9.webp",
         "fru10.webp"
-      ]
+      ],
+      "name": "Fruits",
+      "unlockLevel": 200
     },
     {
-      "name": "Vegetables",
       "cover": "veg1.webp",
-      "unlockLevel": 250,
       "images": [
         "veg1.webp",
         "veg2.webp",
@@ -101,23 +81,44 @@
         "veg8.webp",
         "veg9.webp",
         "veg10.webp"
-      ]
-    },{
-  "name": "Cricketers",
-  "cover": "img1.webp",
-  "unlockLevel": 300,
-  "images": [
-    "img1.webp",
-    "img2.webp",
-    "img3.webp",
-    "img4.webp",
-    "img5.webp",
-    "img6.webp",
-    "img7.webp",
-    "img8.webp",
-    "img9.webp",
-    "img10.webp"
-  ]
-}
-  ]
+      ],
+      "name": "Vegetables",
+      "unlockLevel": 250
+    },
+    {
+      "cover": "img1.webp",
+      "images": [
+        "img1.webp",
+        "img2.webp",
+        "img3.webp",
+        "img4.webp",
+        "img5.webp",
+        "img6.webp",
+        "img7.webp",
+        "img8.webp",
+        "img9.webp",
+        "img10.webp"
+      ],
+      "name": "Cricketers",
+      "unlockLevel": 300
+    },
+    {
+      "cover": "fla1.webp",
+      "images": [
+        "fla1.webp",
+        "fla2.webp",
+        "fla3.webp",
+        "fla4.webp",
+        "fla5.webp",
+        "fla6.webp",
+        "fla7.webp",
+        "fla8.webp",
+        "fla9.webp",
+        "fla10.webp"
+      ],
+      "name": "Flags",
+      "unlockLevel": 150
+    }
+  ],
+  "version": 7
 }
