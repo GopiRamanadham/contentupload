@@ -66,7 +66,7 @@
         "fru10.webp"
       ],
       "name": "Fruits",
-      "unlockLevel": 200
+      "unlockLevel": 150
     },
     {
       "cover": "veg1.webp",
@@ -83,7 +83,7 @@
         "veg10.webp"
       ],
       "name": "Vegetables",
-      "unlockLevel": 250
+      "unlockLevel": 200
     },
     {
       "cover": "img1.webp",
@@ -100,7 +100,7 @@
         "img10.webp"
       ],
       "name": "Cricketers",
-      "unlockLevel": 300
+      "unlockLevel": 250
     },
     {
       "cover": "fla1.webp",
@@ -117,8 +117,25 @@
         "fla10.webp"
       ],
       "name": "Flags",
-      "unlockLevel": 150
+      "unlockLevel": 300
+    },
+    {
+      "cover": "tra1.webp",
+      "images": [
+        "tra1.webp",
+        "tra2.webp",
+        "tra3.webp",
+        "tra4.webp",
+        "tra5.webp",
+        "tra6.webp",
+        "tra7.webp",
+        "tra8.webp",
+        "tra9.webp",
+        "tra10.webp"
+      ],
+      "name": "Traffic",
+      "unlockLevel": 350
     }
   ],
-  "version": 7
+  "version": 8
 }
