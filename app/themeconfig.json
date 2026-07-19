@@ -135,6 +135,57 @@
       ],
       "name": "Traffic",
       "unlockLevel": 350
+    },
+    {
+      "cover": "sport1.webp",
+      "images": [
+        "sport1.webp",
+        "sport2.webp",
+        "sport3.webp",
+        "sport4.webp",
+        "sport5.webp",
+        "sport6.webp",
+        "sport7.webp",
+        "sport8.webp",
+        "sport9.webp",
+        "sport10.webp"
+      ],
+      "name": "Sports",
+      "unlockLevel": 350
+    },
+    {
+      "cover": "foo1.webp",
+      "images": [
+        "foo1.webp",
+        "foo2.webp",
+        "foo3.webp",
+        "foo4.webp",
+        "foo5.webp",
+        "foo6.webp",
+        "foo7.webp",
+        "foo8.webp",
+        "foo9.webp",
+        "foo10.webp"
+      ],
+      "name": "Food",
+      "unlockLevel": 350
+    },
+    {
+      "cover": "bir1.webp",
+      "images": [
+        "bir1.webp",
+        "bir2.webp",
+        "bir3.webp",
+        "bir4.webp",
+        "bir5.webp",
+        "bir6.webp",
+        "bir7.webp",
+        "bir8.webp",
+        "bir9.webp",
+        "bir10.webp"
+      ],
+      "name": "Birds",
+      "unlockLevel": 350
     }
   ],
   "version": 8
