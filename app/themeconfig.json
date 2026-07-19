@@ -151,42 +151,59 @@
         "sport10.webp"
       ],
       "name": "Sports",
-      "unlockLevel": 350
+      "unlockLevel": 400
     },
     {
-      "cover": "foo1.webp",
+      "cover": "food1.webp",
       "images": [
-        "foo1.webp",
-        "foo2.webp",
-        "foo3.webp",
-        "foo4.webp",
-        "foo5.webp",
-        "foo6.webp",
-        "foo7.webp",
-        "foo8.webp",
-        "foo9.webp",
-        "foo10.webp"
+        "food1.webp",
+        "food2.webp",
+        "food3.webp",
+        "food4.webp",
+        "food5.webp",
+        "food6.webp",
+        "food7.webp",
+        "food8.webp",
+        "food9.webp",
+        "food10.webp"
       ],
       "name": "Food",
-      "unlockLevel": 350
+      "unlockLevel": 450
     },
     {
-      "cover": "bir1.webp",
+      "cover": "bird1.webp",
       "images": [
-        "bir1.webp",
-        "bir2.webp",
-        "bir3.webp",
-        "bir4.webp",
-        "bir5.webp",
-        "bir6.webp",
-        "bir7.webp",
-        "bir8.webp",
-        "bir9.webp",
-        "bir10.webp"
+        "bird1.webp",
+        "bird2.webp",
+        "bird3.webp",
+        "bird4.webp",
+        "bird5.webp",
+        "bird6.webp",
+        "bird7.webp",
+        "bird8.webp",
+        "bird9.webp",
+        "bird10.webp"
       ],
       "name": "Birds",
-      "unlockLevel": 350
+      "unlockLevel": 500
+    },
+    {
+      "cover": "sea1.webp",
+      "images": [
+        "sea1.webp",
+        "sea2.webp",
+        "sea3.webp",
+        "sea4.webp",
+        "sea5.webp",
+        "sea6.webp",
+        "sea7.webp",
+        "sea8.webp",
+        "sea9.webp",
+        "sea10.webp"
+      ],
+      "name": "Sea Animals",
+      "unlockLevel": 550
     }
   ],
-  "version": 8
+  "version": 9
 }
